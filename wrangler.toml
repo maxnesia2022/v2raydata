@@ -1,8 +1,8 @@
 name = "v2raydata"
 main = "src/worker.ts"
-compatibility_date = "2024-05-29"
+compatibility_date = "2029-05-29"
 compatibility_flags = ["nodejs_compat"]
 
 kv_namespaces = [
-  { binding = "settings", id = "947f30a16b08465590f50dadc3409064" }
+  { binding = "settings", id = "95a4b31653104ef293bf9bd1c3bf5c66" }
 ]
